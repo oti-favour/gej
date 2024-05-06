@@ -44,14 +44,14 @@
         </div>
 
         <!-- Meet Our Members Section -->
-        <div class="container-xxl py-5">
+        <div class="container-xxl py-3">
             <div class="container">
                 <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
                     <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Meet Our Members </div>
                     
                 </div>
-                <div class="row g-4">
-                    <div class="col-lg-4 col-md-4">
+                <div class="row g-4 mb-4">
+                    <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -71,7 +71,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -81,9 +81,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="row g-4">
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -94,7 +91,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
 
+                <div class="row g-4 mb-4">
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -113,19 +112,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
-                        <div class="card">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
-                            <div class="card-body">
-                                <h5 class="card-title">Her Excellency Madam Ellen Sirleaf Johnson</h5>
-                                <p class="card-text">President, Republic of Liberia (2006 - 2018)</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row g-4">
-                    <div class="col-lg-3 col-md-4">
+                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -134,6 +121,10 @@
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class="row g-4 mb-4">
+                   
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -147,7 +138,7 @@
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
-                                <h5 class="card-title">His Excellency Dr. Goodluck Ebele Jonathan</h5>
+                                <h5 class="card-title">His Excellency Dr. Goodluck  Jonathan</h5>
                                 <p class="card-text">President, Federal Republic of Nigeria (2011 - 2015)</p>
                             </div>
                         </div>
