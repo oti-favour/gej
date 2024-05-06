@@ -51,7 +51,7 @@
                     
                 </div>
                 <div class="row g-4 mb-4">
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -71,7 +71,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -81,9 +81,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="row g-4 mb-4">
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -94,7 +91,10 @@
                             </div>
                         </div>
                     </div>
+                </div>
 
+                <div class="row g-4 mb-4">
+                   
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -122,9 +122,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="row g-4 mb-4">
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -134,7 +131,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
+                </div>
+
+                <div class="row g-4 mb-4">
+                  
+                    <div class="col-lg-4 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -143,7 +144,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-4 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -152,7 +153,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-4 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
