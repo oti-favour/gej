@@ -4,8 +4,6 @@
 
 
 <body>
-    <!-- Page Heading -->
-    <body>
 
         <div class="container mx-5">
             <div class="container-xxl bg-light my-5 py-5">

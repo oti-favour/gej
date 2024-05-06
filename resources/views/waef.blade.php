@@ -24,11 +24,13 @@
                                 Foundation established in 2021 to serve as a home-grown and
                                 non-partisan platform of past heads of state and government in West
                                 Africa.
+                                <br>
                                 The Forum aims to draw on the experience and standing of its members to
                                 provide advisory, mediation and conflict resolution support services to the
                                 political leaders of the sub-region. It also works on various
                                 democracy-promotion, peace and security and governance initiatives in
                                 the sub-region.
+                                <br>
                                 Its overarching motivation is to work with other stakeholders to limit
                                 instability and violence and to advance the integrity of the democratic
                                 process. To this end, WAEF nurtures active collaboration with bodies such
@@ -63,8 +65,8 @@
                         <div class="card">
                             <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
                             <div class="card-body">
-                                <h5 class="card-title">His Excellency Chief Olusegun Obasanjo</h5>
-                                <p class="card-text">President, Federal Republic of Nigeria (1999 - 2007)</p>
+                                <h5 class="card-title">His Excellency Amos Sawyer</h5>
+                                <p class="card-text">President, Republic of Liberia (1990 - 1994)</p>
                                
                             </div>
                         </div>
@@ -73,8 +75,8 @@
                         <div class="card">
                             <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
                             <div class="card-body">
-                                <h5 class="card-title">His Excellency Chief Olusegun Obasanjo</h5>
-                                <p class="card-text">President, Federal Republic of Nigeria (1999 - 2007)</p>
+                                <h5 class="card-title">His Excellency Kadre Desire Quedraogo</h5>
+                                <p class="card-text">Prime Minister, Burkina Faso (1996 - 2000)</p>
                                
                             </div>
                         </div>
@@ -83,8 +85,8 @@
                         <div class="card">
                             <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
                             <div class="card-body">
-                                <h5 class="card-title">His Excellency Chief Olusegun Obasanjo</h5>
-                                <p class="card-text">President, Federal Republic of Nigeria (1999 - 2007)</p>
+                                <h5 class="card-title">His Excellency Abdulsalami Abubakar</h5>
+                                <p class="card-text">President, Federal Republic of Nigeria (1998 - 1999)</p>
                                
                             </div>
                         </div>
