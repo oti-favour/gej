@@ -73,12 +73,9 @@
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
                             <div class="d-flex  mt-2">
-                                <!-- Info Button -->
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
                                     <i class="bi bi-info-circle"></i>
                                 </button>
-                        
-                                <!-- Arrow Button -->
                                 <button type="button" class="btn btn-primary arrow " src="">
                                     <i class="bi bi-arrow-right-circle"></i>
                                 </button>
@@ -87,51 +84,91 @@
 
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 3">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 3">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 3">
-                            <button type="button" class="btn btn-primary my-2 " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
-                                <i class="bi bi-info-circle"></i>
-                            </button>
+                            <div class="d-flex  mt-2">
+                                <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                                    <i class="bi bi-info-circle"></i>
+                                </button>
+                                <button type="button" class="btn btn-primary arrow " src="">
+                                    <i class="bi bi-arrow-right-circle"></i>
+                                </button>
+                            </div>
                         </div>
                         
                         <!-- Add more images as needed -->
