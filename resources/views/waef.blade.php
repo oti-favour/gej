@@ -51,7 +51,7 @@
                     
                 </div>
                 <div class="row g-4">
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-4 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-4 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -71,7 +71,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-4 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
@@ -81,6 +81,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class="row g-4">
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
@@ -98,7 +101,63 @@
                             <div class="card-body">
                                 <h5 class="card-title">His Excellency Pedro Pires</h5>
                                 <p class="card-text">President, Cape Verde (2001 - 2011)</p>
-                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Her Excellency Madam Ellen Sirleaf Johnson</h5>
+                                <p class="card-text">President, Republic of Liberia (2006 - 2018)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Her Excellency Madam Ellen Sirleaf Johnson</h5>
+                                <p class="card-text">President, Republic of Liberia (2006 - 2018)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row g-4">
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">His Excellency Ernest Bai Koroma</h5>
+                                <p class="card-text">President, Sierra Leone(2007 - 2018)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">His Excellency Thomas Boni Yay</h5>
+                                <p class="card-text">President, Republic of Benin (2006 - 2016)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">His Excellency Dr. Goodluck Ebele Jonathan</h5>
+                                <p class="card-text">President, Federal Republic of Nigeria (2011 - 2015)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">His Excellency Dioncounda Traore</h5>
+                                <p class="card-text">Acting President, Mali (2012 - 2013)</p>
                             </div>
                         </div>
                     </div>
