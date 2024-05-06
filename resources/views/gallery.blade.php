@@ -72,6 +72,10 @@
                         <!-- Column for gallery images -->
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
+                            <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
+                               Read More
+                              </button>
+
                         </div>
                         <div class="col-md-4 mb-4">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
