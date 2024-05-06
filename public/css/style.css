@@ -395,6 +395,10 @@
     margin-right: 10px; /* Optional: Add space between buttons */
 }
 
+.arrow{
+    margin-left: 210px;
+}
+
 /*** Footer ***/
 
 .footer .btn.btn-link {

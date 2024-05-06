@@ -79,7 +79,7 @@
                                 </button>
                         
                                 <!-- Arrow Button -->
-                                <button type="button" class="btn btn-primary " src="">
+                                <button type="button" class="btn btn-primary arrow " src="">
                                     <i class="bi bi-arrow-right-circle"></i>
                                 </button>
                             </div>
