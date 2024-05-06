@@ -70,7 +70,7 @@
                     <!-- Gallery Section -->
                     <div class="row">
                         <!-- Column for gallery images -->
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.1s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.1s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -93,7 +93,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.1s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 3">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -104,7 +104,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.3s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -115,7 +115,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.3s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -126,7 +126,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.3s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 3">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -137,7 +137,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.5s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 1">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -148,7 +148,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.5s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 2">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
@@ -159,7 +159,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4">
+                        <div class="col-md-4 mb-4 wow fadeInUp" data-wow-delay="0.5s">
                             <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="Image 3">
                             <div class="d-flex  mt-2">
                                 <button type="button" class="btn btn-primary " data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Right popover">
