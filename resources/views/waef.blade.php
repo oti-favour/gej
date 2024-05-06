@@ -15,8 +15,8 @@
         <div class="container-xxl py-5">
             <div class="container-fluid donate " data-parallax="scroll" data-image-src="img/carousel-2.jpg">
                 <div class="container py-5">
-                    <div class="row g-5 align-items-center">
-                        <div class="col-lg-10 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="row g-5 d-flex justify-content-start">
+                        <div class="col-lg-11 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">ABOUT WAEF</div>
                             <h1 class="display-6 text-white mb-5">WEST AFRICAN ELDERS FORUM</h1>
                             <p class="text-white-50 mb-0">
@@ -53,7 +53,7 @@
                 <div class="row g-4">
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
-                            <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
                                 <h5 class="card-title">His Excellency Chief Olusegun Obasanjo</h5>
                                 <p class="card-text">President, Federal Republic of Nigeria (1999 - 2007)</p>
@@ -63,7 +63,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
-                            <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
                                 <h5 class="card-title">His Excellency Amos Sawyer</h5>
                                 <p class="card-text">President, Republic of Liberia (1990 - 1994)</p>
@@ -73,7 +73,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
-                            <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
                                 <h5 class="card-title">His Excellency Kadre Desire Quedraogo</h5>
                                 <p class="card-text">Prime Minister, Burkina Faso (1996 - 2000)</p>
@@ -83,10 +83,21 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="card">
-                            <img src="{{asset('img/1.jpg')}}" class="card-img-top" alt="Member Image">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
                             <div class="card-body">
                                 <h5 class="card-title">His Excellency Abdulsalami Abubakar</h5>
                                 <p class="card-text">President, Federal Republic of Nigeria (1998 - 1999)</p>
+                               
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Member Image">
+                            <div class="card-body">
+                                <h5 class="card-title">His Excellency Pedro Pires</h5>
+                                <p class="card-text">President, Cape Verde (2001 - 2011)</p>
                                
                             </div>
                         </div>
